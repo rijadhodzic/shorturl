@@ -1,6 +1,6 @@
 # Secure Short URL Generator
 
- ![Sort Url Script]([https://res.cloudinary.com/demo/image/upload/sample.jpg](https://i.postimg.cc/CKBBQ46C/33db1892bd5cd7649b32df3382aee4d4.png))
+ ![Alt text](https://i.postimg.cc/CKBBQ46C/33db1892bd5cd7649b32df3382aee4d4.png)
 
 A lightweight and secure PHP-based URL shortener with support for:
 
