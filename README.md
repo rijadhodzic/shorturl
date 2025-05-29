@@ -10,11 +10,6 @@ A lightweight and secure PHP-based URL shortener with support for:
 - No database required (JSON-based)
 - Responsive Bootstrap 5 dark design
 
-## ✍️ Author
-
-**Rijad Hodzic**  
-[https://backlinkexchange.org](https://backlinkexchange.org)
-
 ---
 
 ## 🚀 Features
