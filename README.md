@@ -1,4 +1,4 @@
-# Secure Short URL Generator
+# Free PHP Short URL Generator
 
  ![Alt text](https://i.postimg.cc/CKBBQ46C/33db1892bd5cd7649b32df3382aee4d4.png)
 
